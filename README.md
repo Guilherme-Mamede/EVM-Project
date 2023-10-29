@@ -2,7 +2,7 @@
 
 This is a project based on the Brazilian electronic voting machine developed by the TSE (Tribunal Superior Eleitoral). It has three action buttons and 10 numeric keys, the candidates are presented on the screen and their numerical spaces, when filled in correctly, present the name, the party of the councilors and mayors and the vice-president in the case of mayors.
 
-# action buttons
+# Action buttons
 
 The blank button is used when you do not intend to vote for any candidate.
 
